@@ -2,11 +2,8 @@ PODS:
   - Flutter (1.0.0)
   - flutter_blue (0.0.1):
     - Flutter
-    - flutter_blue/Protos (= 0.0.1)
-  - flutter_blue/Protos (0.0.1):
-    - Flutter
     - Protobuf
-  - Protobuf (3.10.0)
+  - Protobuf (3.12.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
@@ -24,9 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_blue: 763739beea88e81195eb6cb8693d530057430feb
-  Protobuf: a4dc852ad69c027ca2166ed287b856697814375b
+  flutter_blue: 789e6f8ce774259d81a942ef55fcb2be5d4070af
+  Protobuf: 2793fcd0622a00b546c60e7cbbcc493e043e9bb9
 
-PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+PODFILE CHECKSUM: 50d3e630749c93e204ed1b6cf9b51eb33e181323
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.1
