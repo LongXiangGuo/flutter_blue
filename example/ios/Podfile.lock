@@ -4,8 +4,8 @@ PODS:
   - Flutter (1.0.0)
   - flutter_blue (0.0.1):
     - Flutter
-    - Protobuf (~> 3.11.4)
-  - Protobuf (3.11.4)
+    - Protobuf (~> 3.12.0)
+  - Protobuf (3.12.0)
 
 DEPENDENCIES:
   - e2e (from `.symlinks/plugins/e2e/ios`)
@@ -27,8 +27,8 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   e2e: 967b9b1fc533b7636a3b7a719f840c27f301fe1f
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_blue: 8c8c10ce83acaa91ec0585897c89434eb2915353
-  Protobuf: 176220c526ad8bd09ab1fb40a978eac3fef665f7
+  flutter_blue: 9dea60b94523bedb4fd322f6f0103ff59bfd327e
+  Protobuf: 2793fcd0622a00b546c60e7cbbcc493e043e9bb9
 
 PODFILE CHECKSUM: 50d3e630749c93e204ed1b6cf9b51eb33e181323
 
